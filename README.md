@@ -2,8 +2,8 @@
 - 👩‍🎓 Engineer
 - 👩‍💻 Self taught developer 
 - 👩‍💻 Web dev enthusiast
-- 🌱 Currently learning **JavaScript and React**
-- 💡 Building projects
+- 🌱 Currently learning **TypeScript**
+- 💡 Checkout Built projects
 
 <!---
 vishal804/vishal804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
